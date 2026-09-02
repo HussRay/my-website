@@ -1,0 +1,46 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero}
+# Lionel Messi
+<div class="subtitle">Argentine footballer · Widely regarded as one of the greatest players in the history of the sport</div>
+:::
+
+::: {.stat-grid}
+::: {.stat-card}
+[8]{.stat-number}
+[Ballon d'Or awards]{.stat-label}
+:::
+
+::: {.stat-card}
+[1]{.stat-number}
+[FIFA World Cup title]{.stat-label}
+:::
+
+::: {.stat-card}
+[4]{.stat-number}
+[UEFA Champions League titles]{.stat-label}
+:::
+
+::: {.stat-card}
+[800+]{.stat-number}
+[Career club goals]{.stat-label}
+:::
+:::
+
+## Welcome
+
+Lionel Andrés Messi is an Argentine professional footballer who plays as a forward. Over a career spanning more than two decades, he has redefined what is possible on a football pitch, combining close control, vision, and finishing to become the sport's all-time record holder for Ballon d'Or awards.
+
+Born in Rosario, Argentina, and shaped by nearly two decades at FC Barcelona before moves to Paris Saint-Germain and Inter Miami, Messi's story is one of perseverance — overcoming a childhood growth-hormone condition — and sustained excellence at the highest level of the game.
+
+> "I always try to focus on the present, because the past doesn't matter and the future isn't guaranteed."
+> — Lionel Messi
+
+Use the navigation above to explore his **background and career** and his **major achievements and impact** on the sport.
+
+::: {.callout-note}
+This site is an educational project built with [Quarto](https://quarto.org) to demonstrate a multi-page website structure.
+:::

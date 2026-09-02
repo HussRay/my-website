@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lionel Messi"
+  description: "A look at the career, background, and impact of Lionel Messi"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: background.qmd
+        text: Background & Career
+      - href: achievements.qmd
+        text: Achievements & Impact
+  page-footer:
+    center: "© 2026 · Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    grid:
+      body-width: 900px
